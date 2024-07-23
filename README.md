@@ -9,3 +9,5 @@ Use `pip install -r requirement.txt`
 to run the code, please use
 
 `python scripts/forecast_weather_energy.sh`
+
+you can change the parameters in the `.sh` file
